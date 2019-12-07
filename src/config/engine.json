@@ -1,0 +1,27 @@
+{
+  "engineName": "find-my-course",
+  "hostIdentifier": "host-p1f2ur",
+  "endpointBase": "https://host-p1f2ur.api.swiftype.com",
+  "searchKey": "search-om3kebnkf1k31gq62ucfgjdr",
+  "resultFields": [
+    "course_name",
+    "course_provider",
+    "course_link",
+    "level",
+    "price",
+    "rating",
+    "id"
+  ],
+  "sortFields": [
+    "price",
+    "level",
+    "rating"
+  ],
+  "facets": [
+    "course_provider",
+    "level",
+    "rating"
+  ],
+  "titleField": "course_name",
+  "urlField": "course_link"
+}
